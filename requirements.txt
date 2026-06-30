@@ -13,3 +13,8 @@ peft
 datasets
 mlflow
 apache-airflow
+pandas
+sqlalchemy
+pypdf
+pillow
+tenacity
