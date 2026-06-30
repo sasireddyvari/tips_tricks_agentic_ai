@@ -17,6 +17,7 @@ A notebook-first repository of practical patterns for building agentic AI system
 - Safety testing, structured outputs, and model selection patterns
 - Observability and adaptation patterns with Grafana and PEFT
 - MLOps patterns with MLflow and Airflow
+- An end-to-end stack playbook that ties everything together
 
 ## Included notebooks
 
@@ -32,6 +33,7 @@ A notebook-first repository of practical patterns for building agentic AI system
 - `notebooks/09_model_selection_and_comparison.ipynb`
 - `notebooks/10_grafana_and_peft_playbook.ipynb`
 - `notebooks/11_mlops_mlflow_airflow_playbook.ipynb`
+- `notebooks/12_end_to_end_agentic_mlops_stack.ipynb`
 
 ## How to use
 
@@ -61,3 +63,4 @@ For example, the code comments highlight how a larger model, GPU serving, or vLL
 - Add a notebook for comparing local, hosted, and GPU-backed models
 - Add a notebook for Grafana observability and PEFT fine-tuning workflows
 - Add a notebook for MLOps experiment tracking and orchestration
+- Add an end-to-end stack notebook that connects all the pieces
