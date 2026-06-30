@@ -1,5 +1,9 @@
 jupyter
 ipykernel
 langchain
+langchain-community
+langchain-openai
 langgraph
+langsmith
 pydantic
+python-dotenv
