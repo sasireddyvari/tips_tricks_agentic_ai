@@ -12,3 +12,4 @@
 - `09_model_selection_and_comparison.ipynb`
 - `10_grafana_and_peft_playbook.ipynb`
 - `11_mlops_mlflow_airflow_playbook.ipynb`
+- `12_end_to_end_agentic_mlops_stack.ipynb`
