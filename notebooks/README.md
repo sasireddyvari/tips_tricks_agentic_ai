@@ -13,3 +13,6 @@
 - `10_grafana_and_peft_playbook.ipynb`
 - `11_mlops_mlflow_airflow_playbook.ipynb`
 - `12_end_to_end_agentic_mlops_stack.ipynb`
+- `13_sql_agents_and_data_tools.ipynb`
+- `14_multimodal_ocr_and_document_ai.ipynb`
+- `15_retries_fallbacks_and_error_handling.ipynb`
