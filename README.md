@@ -17,6 +17,7 @@ A notebook-first repository of practical patterns for building agentic AI system
 - Safety testing, structured outputs, and model selection patterns
 - Observability and adaptation patterns with Grafana and PEFT
 - MLOps patterns with MLflow and Airflow
+- SQL agents, OCR pipelines, and failure-handling patterns for production systems
 - An end-to-end stack playbook that ties everything together
 
 ## Included notebooks
@@ -34,6 +35,9 @@ A notebook-first repository of practical patterns for building agentic AI system
 - `notebooks/10_grafana_and_peft_playbook.ipynb`
 - `notebooks/11_mlops_mlflow_airflow_playbook.ipynb`
 - `notebooks/12_end_to_end_agentic_mlops_stack.ipynb`
+- `notebooks/13_sql_agents_and_data_tools.ipynb`
+- `notebooks/14_multimodal_ocr_and_document_ai.ipynb`
+- `notebooks/15_retries_fallbacks_and_error_handling.ipynb`
 
 ## How to use
 
@@ -55,12 +59,9 @@ For example, the code comments highlight how a larger model, GPU serving, or vLL
 
 - Add real LangSmith trace screenshots once you connect a project
 - Add a notebook for prompt evaluation experiments
-- Add a notebook for tool-calling and retry policies
-- Add an end-to-end mini app that uses the notebook patterns
-- Add a multimodal notebook for PDF, image, or audio workflows
 - Add a notebook for agent memory and state management
 - Add a notebook for prompt injection red-team tests
 - Add a notebook for comparing local, hosted, and GPU-backed models
-- Add a notebook for Grafana observability and PEFT fine-tuning workflows
-- Add a notebook for MLOps experiment tracking and orchestration
-- Add an end-to-end stack notebook that connects all the pieces
+- Add a notebook for more advanced multimodal workflows like audio and video
+- Add a notebook for enterprise decision simulation and digital twins
+- Add an end-to-end mini app that uses the notebook patterns
