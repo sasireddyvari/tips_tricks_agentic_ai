@@ -11,3 +11,4 @@
 - `08_structured_outputs_and_tools.ipynb`
 - `09_model_selection_and_comparison.ipynb`
 - `10_grafana_and_peft_playbook.ipynb`
+- `11_mlops_mlflow_airflow_playbook.ipynb`
