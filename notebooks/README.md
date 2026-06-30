@@ -16,3 +16,6 @@
 - `13_sql_agents_and_data_tools.ipynb`
 - `14_multimodal_ocr_and_document_ai.ipynb`
 - `15_retries_fallbacks_and_error_handling.ipynb`
+- `16_tool_calling_patterns_and_routing.ipynb`
+- `17_langsmith_evals_and_regression_testing.ipynb`
+- `18_multimodal_agent_patterns.ipynb`
