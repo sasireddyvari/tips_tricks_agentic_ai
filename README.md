@@ -17,7 +17,8 @@ A notebook-first repository of practical patterns for building agentic AI system
 - Safety testing, structured outputs, and model selection patterns
 - Observability and adaptation patterns with Grafana and PEFT
 - MLOps patterns with MLflow and Airflow
-- SQL agents, OCR pipelines, and failure-handling patterns for production systems
+- SQL agents, OCR pipelines, tool routing, and failure-handling patterns for production systems
+- A practical eval-and-regression mindset for keeping agents reliable over time
 - An end-to-end stack playbook that ties everything together
 
 ## Included notebooks
@@ -38,6 +39,9 @@ A notebook-first repository of practical patterns for building agentic AI system
 - `notebooks/13_sql_agents_and_data_tools.ipynb`
 - `notebooks/14_multimodal_ocr_and_document_ai.ipynb`
 - `notebooks/15_retries_fallbacks_and_error_handling.ipynb`
+- `notebooks/16_tool_calling_patterns_and_routing.ipynb`
+- `notebooks/17_langsmith_evals_and_regression_testing.ipynb`
+- `notebooks/18_multimodal_agent_patterns.ipynb`
 
 ## How to use
 
