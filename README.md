@@ -14,6 +14,7 @@ A notebook-first repository of practical patterns for building agentic AI system
 - Evaluation and debugging habits
 - Modern tricks like streaming, human review, and fallback paths
 - Full-stack AI capability patterns across text, tools, memory, multimodal, and orchestration
+- Safety testing, structured outputs, and model selection patterns
 
 ## Included notebooks
 
@@ -24,6 +25,9 @@ A notebook-first repository of practical patterns for building agentic AI system
 - `notebooks/04_evals_and_guardrails.ipynb`
 - `notebooks/05_langsmith_langgraph_modern_stack.ipynb`
 - `notebooks/06_ai_capabilities_playbook.ipynb`
+- `notebooks/07_prompt_injection_and_safety.ipynb`
+- `notebooks/08_structured_outputs_and_tools.ipynb`
+- `notebooks/09_model_selection_and_comparison.ipynb`
 
 ## How to use
 
@@ -49,3 +53,5 @@ For example, the code comments highlight how a larger model, GPU serving, or vLL
 - Add an end-to-end mini app that uses the notebook patterns
 - Add a multimodal notebook for PDF, image, or audio workflows
 - Add a notebook for agent memory and state management
+- Add a notebook for prompt injection red-team tests
+- Add a notebook for comparing local, hosted, and GPU-backed models
